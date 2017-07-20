@@ -1,4 +1,4 @@
-#JumpStart
+# JumpStart
 
 An animated and fully responsive landing page for a crowd-sourcing website
 
